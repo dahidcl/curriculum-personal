@@ -1,0 +1,52 @@
+.logo {width: 1440px; height: 188,19 px;}
+.foto {width: 26mm; height: 32mm;}
+body {font-family: 'Courier New', Courier, monospace;}
+h1 {
+    background-color:#f4bbed;
+    color:#ae42a0;
+    ;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.Espacio1 {
+    height: 98px;
+}
+
+h2,
+h3 {
+    background-color:#f4bbed;
+    color:#ae42a0;;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 16, 94 px;
+    text-align: left
+}
+
+
+
+footer {
+    background-color:#ae42a0;
+    text-align: center;
+    color: white
+}
+
+.icono {
+    color: rgb(109, 27, 87);
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.estilo1 {
+    font-weight: 700;
+    font-style: italic;
+}
+
+.estilo2 {
+    font-weight: 700;
+}
+
+.sangria {
+    text-indent: 75px;
+}
